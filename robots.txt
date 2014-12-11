@@ -14,6 +14,9 @@ Disallow:
 User-agent: *
 Crawl-delay: 10
 
+User-agent: AhrefsBot
+Disallow: /
+
 User-agent: Alexibot
 Disallow: /
 
@@ -50,6 +53,9 @@ Disallow: /
 User-agent: b2w/0.1
 Disallow: /
 
+User-Agent: CazoodleBot
+Disallow: /
+
 User-agent: CheeseBot
 Disallow: /
 
@@ -60,6 +66,9 @@ User-agent: CherryPickerElite/1.0
 Disallow: /
 
 User-agent: CherryPickerSE/1.0
+Disallow: /
+
+User-agent: CompSpyBot
 Disallow: /
 
 User-agent: Copernic
@@ -78,6 +87,12 @@ User-agent: Crescent Internet ToolPak HTTP OLE Control v.1.0
 Disallow: /
 
 User-agent: DittoSpyder
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+User-agent: dotbot
 Disallow: /
 
 User-agent: dumbot
@@ -104,10 +119,28 @@ Disallow: /
 User-agent: EroCrawler
 Disallow: /
 
+User-agent: EtaoSpider
+Disallow: /
+
+User-agent: exabot
+Disallow: /
+
 User-agent: ExtractorPro
 Disallow: /
 
+User-agent: Ezooms
+Disallow: /
+
 User-agent: FairAd Client
+Disallow: /
+
+User-agent: fast
+Disallow: /
+
+User-Agent: Fasterfox
+Disallow: /
+
+User-agent: Fetch
 Disallow: /
 
 User-agent: Flaming AttackBot
@@ -123,6 +156,9 @@ User-agent: Gaisbot
 Disallow: /
 
 User-agent: GetRight/4.2
+Disallow: /
+
+User-agent: gigabot
 Disallow: /
 
 User-agent: grub
@@ -152,6 +188,9 @@ Disallow: /
 User-agent: http://www.WebmasterWorld.com bot
 Disallow: /
 
+User-agent: HTTrack
+Disallow: /
+
 User-agent: humanlinks
 Disallow: /
 
@@ -164,7 +203,13 @@ Disallow: /
 User-agent: InfoNaviRobot
 Disallow: /
 
+User-agent: IntegromeDB
+Disallow: /
+
 User-agent: Iron33/1.0.2
+Disallow: /
+
+User-Agent: Jyxobot
 Disallow: /
 
 User-agent: JennyBot
@@ -174,6 +219,9 @@ User-agent: Jetbot
 Disallow: /
 
 User-agent: Jetbot/1.0
+Disallow: /
+
+User-agent: JobdiggerSpider
 Disallow: /
 
 User-agent: Kenjin Spider
@@ -191,7 +239,13 @@ Disallow: /
 User-agent: libWeb/clsHTTP
 Disallow: /
 
+User-agent: libwww
+Disallow: /
+
 User-agent: LinkextractorPro
+Disallow: /
+
+User-agent: linko
 Disallow: /
 
 User-agent: LinkScan/8.1a Unix
@@ -224,6 +278,9 @@ Disallow: /
 User-agent: Microsoft URL Control - 6.00.8169
 Disallow: /
 
+User-agent: Microsoft.URL.Control
+Disallow: /
+
 User-agent: MIIxpc
 Disallow: /
 
@@ -231,6 +288,9 @@ User-agent: MIIxpc/4.2
 Disallow: /
 
 User-agent: Mister PiX
+Disallow: /
+
+User-agent: MJ12bot
 Disallow: /
 
 User-agent: MSIECrawler
@@ -287,6 +347,9 @@ Disallow: /
 User-agent: NICErsPRO
 Disallow: /
 
+User-agent: NPBot
+Disallow: /
+
 User-agent: Nutch
 Disallow: /
 
@@ -303,6 +366,9 @@ User-agent: Openfind data gathere
 Disallow: /
 
 User-agent: Openfind 
+Disallow: /
+
+User-agent: OpenindexSpider
 Disallow: /
 
 User-agent: Oracle Ultra Search
@@ -335,10 +401,34 @@ Disallow: /
 User-agent: RepoMonkey
 Disallow: /
 
+User-agent: rogerbot
+Disallow: /
+
 User-agent: RMA
 Disallow: /
 
+User-agent: SearchmetricsBot
+Disallow: /
+
 User-agent: searchpreview
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: ShopWiki
+Disallow: /
+
+User-agent: SindiceBot
+Disallow: /
+
+User-agent: sistrix
+Disallow: /
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: SiteExplorer
 Disallow: /
 
 User-agent: SiteSnagger
@@ -392,6 +482,9 @@ Disallow: /
 User-agent: turingos
 Disallow: /
 
+User-agent: TurnitinBot
+Disallow: /
+
 User-agent: URL Control
 Disallow: /
 
@@ -437,6 +530,9 @@ Disallow: /
 User-agent: WebmasterWorldForumBot
 Disallow: /
 
+User-agent: WebReaper
+Disallow: /
+
 User-agent: WebSauger
 Disallow: /
 
@@ -470,10 +566,16 @@ Disallow: /
 User-agent: WWW-Collector-E
 Disallow: /
 
+User-agent: Xenu
+Disallow: /
+
 User-agent: Xenu's Link Sleuth 1.1c
 Disallow: /
 
 User-agent: Xenu's
+Disallow: /
+
+User-agent: Zealbot
 Disallow: /
 
 User-agent: Zeus
@@ -483,4 +585,10 @@ User-agent: Zeus Link Scout
 Disallow: /
 
 User-agent: Zeus 32297 Webster Pro V2.9 Win32
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: 008
 Disallow: /
