@@ -125,9 +125,6 @@ Disallow: /
 User-agent: GetRight/4.2
 Disallow: /
 
-User-agent: Googlebot-Image
-Disallow: /
-
 User-agent: grub
 Disallow: /
 
